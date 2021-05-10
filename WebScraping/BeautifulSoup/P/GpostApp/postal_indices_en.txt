@@ -1,0 +1,983 @@
+0108 - Abakelia st.
+0105 - Abano st. lane, blind alleys
+0101 - Abasha st.
+0179 - Abasheli st; blind alley
+0102 - Abashidze Dodo st.
+0179 - Abashidze Gr. st.
+0160 - Abashidze Heidar st.
+0162 - Abashidze Irakli st. # 55-87; 52-86
+0179 - Abashidze Irakli st. #1-53; 2-50
+0102 - Abashidze Kita st.
+0108 - Abashidze Vaso st; blind alleys
+0182 - Abashvili st.
+0112 - Abastumani st.
+0103 - Abdushelishvili st.
+0105 - Abesadze st. blind alleys
+0101 - Abkhazeti st; lane.
+0105 - Abo Tbileli st.
+0105 - Abovian st.
+0162 - Abuladze Tengiz. st;
+0163 - Abuladze Z. st;
+0120 - Abuseridze-Tbeli st; passage; blind alleys
+0105 - Abzhandadze st.
+0102 - Adigeni st.
+0101 - Adjara st.
+0182 - Aerodromis Dasakhleba; streets
+0158 - Aeroportis Dasakhleba; streets, buildings
+0148 - Affanasiev st.
+0101 - Agara st.
+0154 - Agladze st. # 1, 37, 37a, 39, 39a, 39b, 77a
+0154 - Agladze st. # 2
+0119 - Agladze st. # 26-38; #67-83
+0102 - Agmashenebeli ave. # 1-89; #2-146
+0112 - Agmashenebeli ave.# 91-199, 148-184
+0181 - Agmashenebeli st. (Tskhneti)
+0102 - Agmasheneblis Chikhi
+0131 - Agmasheneblis Kheivani
+0102 - Ajameti st; lane.
+0192 - Aketi st; lane; blind alley
+0133 - Akhalarsenali 1st , 2nd st
+0192 - Akhaldaba st; lane; blind alley
+0181 - Akhaldabas Dasakhleba (Tskhneti)
+0180 - Akhalkalaki st.
+0105 - Akhalkojori Highway
+0102 - Akhaltsikhe st.
+0103 - Akhalubani st.
+0103 - Akhmeta st. # 1-9; #2-12
+0144 - Akhmeta st. # 11-31; #4-24
+0159 - Akhmeteli st.
+0103 - Akhmetis Chikhi
+0105 - Akhospireli st. passage; blind alleys
+0101 - Akhtala st; passage
+0105 - Akhundov st; lane.
+0132 - Akhuti st.
+0109 - Akhvlediani Elene st. (Orkhevi)
+0103 - Akhvlediani Elene st; ascent; lane
+0102 - Akhvlediani Elenes Khevi
+0108 - Akhvlediani George st;
+0105 - Akopian st; lane.
+0171 - Akuri.st
+0103 - Aladashvili st; lane.
+0103 - Alazani st; lane; passage.
+0158 - Alekseevkis Dasakhleba; streets
+0101 - Aleksi-Meskhishvili st; lanes, passage, ravine
+0163 - Aleksidze Dimitri st.
+0193 - Aleksidze Merab st.
+0171 - Aleksidze Merab st. build #1. 2. 3. 4.
+0105 - Algeti st.
+0103 - Alikhanian st.
+0103 - Alvani st.
+0105 - Amagleba st.
+0160 - Ambrolauri st.
+0178 - Amiranashvili Petre st.
+0109 - Amiranashvili Shalva st.
+0148 - Amirejibi st.
+0151 - amo st. (Lilo)
+0112 - Anaklia st.
+0179 - Ananuri st.
+0141 - Anapis Divizionis st.
+0148 - Andguladze st.
+0117 - Andronikashvili E. st. # 35-145; lanes; blind alleys
+0102 - Andronikashvili G. st.
+0189 - Andronikashvili st. # 1-33; # 4-10
+0179 - Anjafaridze st.
+0102 - Antelava st. lane; blind alley
+0105 - Anton Katalikosis st. blind alley
+0177 - Antonivskaya st.
+0179 - Aragvi st.
+0179 - Arakishvili st; blind alleys
+0192 - Araleti st; Lane
+0103 - Araratis st. lane.
+0141 - Arbo st.
+0144 - Arboshikis Shesakhvevi
+0132 - Archil Mepis st.
+0160 - Ardaziani st.
+0179 - Areshidze st.
+0101 - Argvetis st.
+0103 - Armazi st; lane
+0132 - Arsenalis Chikhi; Khevi
+0132 - Arsenalis Mta; I -II st.,
+0181 - Arsenas st. (Tskneti)
+0132 - Artvini st; blind alleys
+0148 - Arveladze st.
+0105 - Asatiani Lado st; lanes; blind alleys
+0177 - Asatiani Michael st.
+0165 - Asfalt-Betonis Dasakhleba
+0105 - Askana st; blind alleys
+0101 - Askhini st.
+0171 - Aslanidi st.
+0132 - Aspindza 1st ,2nd st; lane.
+0101 - Asureti st; lane.
+0179 - Ateni str.
+0105 - Atoneli st; blind alley
+0144 - Atskuri st.
+0103 - Avlabari st; passage; lane; blind alley
+0105 - Avlevi st; lane.
+0105 - Avtandil st.
+0105 - Baazovi G. st.
+0103 - Bachana st; blind alley
+0103 - Badiauri st.
+0113 - Bagdadi st.
+0162 - Bagebis Dasakhleba
+0180 - Bagineti st.
+0119 - Bagis st.
+0189 - Bagnaris st.
+0131 - Bagrati st.
+0160 - Bagrationi G. st.
+0132 - Bagrationi P. st.
+0154 - Bagrationi V. st.
+0101 - Bakhmaro st; lane.
+0171 - Bakhtrioni st. #3/5 and 4/6
+0194 - Bakhtrioni st. all except #3/5, 4/6
+0103 - Bakhvi lane.
+0112 - Bako st.
+0119 - Bakradze D. st.
+0179 - Bakradze Dim. st; lane; blind alley
+0148 - Bakradze K. st; lane.
+0171 - Bakuriani st.
+0171 - Bakurtsikhe st.
+0113 - Baladin st; lane.
+0131 - Balanchin George st.
+0171 - Balanchivadze st.
+0105 - Bambis Rigi
+0144 - Banakis Dasakhleba ; I,II,III st.
+0109 - Banetashvili st. (Orkhevi)
+0189 - Baraleti st; lane; blind alley
+0178 - Baramidze st.
+0107 - Baratashvili st. (Tianeti highway)
+0105 - Baratashvili st; square.
+0103 - Baratashvilis Agmarti
+0117 - Barisakho st; lane; blind alley
+0179 - Barnov st. # 41-87; 44-88
+0108 - Barnov st. #1-39; 2-42
+0179 - Barnovis Meore Shesakhvevi; Chikhebi
+0108 - Barnovis Pirveli Shesakhvevi; Pirveli Chikhi
+0179 - Bashaleishvili Natia st.
+0154 - Batumi st; lane; blind alleys
+0179 - Bazaleti st.
+0183 - Bedia st.
+0103 - Begleti st.
+0192 - Bejanishvili st; lanes; blind alley; passage
+0105 - Beka Opizari st.
+0159 - Beliashvili st.
+0108 - Belinsky st.
+0102 - Benashvili st; passage; lane.
+0180 - Bendeliani Ch. st; blind alley; lanes
+0171 - Bendeliani Z. st.
+0101 - Bendelianis Gora (Zemo Dasakhleba)
+0171 - Berbuki st; lane
+0162 - Berdzenishvili st. # 1
+0179 - Berdzenishvili st. # 4
+0114 - Berdznis Chikhi
+0132 - Beriashvili D. st; blind alley
+0182 - Beriashvili G. st.
+0108 - Beridze st.
+0177 - Beritashvili st.
+0105 - Besiki st. (Okrokana)
+0108 - Besiki st; passage; square; lanes
+0103 - Betania st.
+0105 - Betlemi st; ascent; blind alley
+0117 - Bichvinta st; lanes; blind alleys
+0192 - Bjoleti st.
+0105 - Bneli Chikhi
+0167 - Bochorishvili st.
+0171 - Bochorishvili Vakhtang st.
+0144 - Bochorma st.
+0132 - Bodavi I-st; II-st.
+0144 - Bodbe st; lane.
+0192 - Bogvi st.
+0171 - Bolkvadze z. st.
+0113 - Bolnisi st; blind alley
+0105 - Bolo Agmarti
+0108 - Borbalo st; lane; blind alley
+0112 - Borjomi st.
+0103 - Borodin st.
+0105 - Botanikuri st; blind alley
+0179 - Botsvadze l. st.
+0108 - Botsvadze Z. st.
+0160 - Brolosani st.
+0108 - Brosse st; blind alley
+0141 - Buachidze N. st.
+0177 - Buachidze T. st.
+0160 - Budapeshti st; lanes
+0104 - Bugeuli st.
+0102 - Bukhaidze st; lanes
+0160 - Bulachauri st.
+0194 - Burdzgla st.
+0103 - Burebis Shesakhvevi
+0179 - Burkiashvili st.
+0103 - Bzipi st; lane.
+0105 - Dabakhanis st; lane.
+0105 - Dadiani Sh. st.
+0180 - Dadiani Ts. II m/d; bld. 2,3
+0180 - Dadiani Ts. II m/d; bld. 2,3
+0101 - Dadiani Ts. lanes
+0101 - Dadiani Ts. st. #1-105,2-28
+0192 - Dadiani Ts. st. #305-323
+0192 - Daisi st; passage; lane
+0162 - Dariali st; lanes
+0101 - Darkveti st.
+0152 - Davitaia st.
+0158 - Davitashvili L. st; passage; lane; blind alleys
+0132 - Davitashvili R. st.
+0152 - davitashvili st.
+0103 - Dedoplistskaro st; lanes; blind alley
+0114 - Dekabristebis st; passage; square; blind alley
+0177 - Delisi st. 1,2,3 st; blind alleys; square
+0131 - Demetre Tavdadebulis st.
+0180 - Depo st; lane.
+0102 - Dgebuadze st.
+0181 - Didgori st. (Tskneti)
+0113 - Didgori st; blind alleys
+0131 - Didi Digmis Dasakhleba ; 3,4,5 m/d
+0180 - Didi Jikhaishi st; passage; lanes; blind alleys
+0114 - Didi Kheivanis st.
+0102 - Didkhevis Agmarti
+0154 - Didube st;
+0192 - Didubis Dasakhleva
+0119 - Didubis Mesame Shesakhvevi
+0119 - Didubis Sadguri
+0159 - Digmis Masivi; blocks # 1,2,3,4,5,6
+0132 - Digombari st; lane.
+0113 - Dirsichala st.
+0105 - Diuma st; blind alleys
+0103 - Dmanisi st; lane.
+0101 - Dobroliubov st; lane.
+0113 - Dodashvili st; square; blind alleys
+0144 - Doesi st.
+0102 - Dokis Shesakhvevi
+0144 - Dolabauris 1st,2nd,3rd st; passage; highway; square;
+0112 - Dolidze Gogi st
+0162 - Dolidze S st.
+0171 - Dolidze st.
+0172 - Dumbadze ave.
+0101 - Dundua st.
+0148 - Durmishidze st.
+0103 - Dusheti st.
+0103 - Duta Megrelis st.
+0163 - Dvali st.
+0192 - Dviri st.
+0192 - Edisi.st.
+0114 - Efrem Mtsires st.
+0108 - Ekaladze st.
+0113 - Ekimis st; passage; lane.
+0182 - Eldari st.
+0162 - Endeladze square
+0168 - Engurgesi st.
+0101 - Eniseli st.
+0182 - Enukidze #1-11 st.
+0145 - Enukidze #2-12 st
+0105 - Erekle II st;square;lane;blind alley
+0103 - Erevnis st; blind alley
+0112 - Eristavi G. st.
+0103 - Eristavi K. st.
+0179 - Eristavi R. st.
+0192 - Eristavi T. st; lane.
+0108 - Eristavi-Khoshtaria st; blind alley
+0192 - Ertso st.
+0109 - Esenin st.
+0105 - Ethim Gurji st; lane; blind alley
+0186 - Euli st.
+0154 - Evdoshvili st.
+0108 - Gabashvili Ekaterine st; lane
+0177 - Gabashvili Gigo square; st
+0162 - Gabashvili Kote st.
+0103 - Gabiskiria st; square; lane
+0103 - Gabriel Episkoposis st
+0160 - Gagarin st; lanes
+0189 - Gagra st
+0182 - Gakhokidze st. # 1-109, 2-48
+0163 - Gakhokidze st. upper #48, upper #109
+0105 - Galaktioni st
+0103 - Galavani st
+0179 - Gali st; blind alley
+0178 - Gamkrelidze st.
+0160 - Gamrekeli David st. #1,3,13,15,17,18,19,20
+0194 - Gamrekeli David st. 1,2,6,8,10,12,16 bld; lane;
+0186 - Gamrekeli Irakli st.
+0102 - Gamtsemlidze st; lane
+0105 - Ganapira Agmarti
+0103 - Gantiadi st.
+0154 - Gaprindauli st.
+0141 - Garejeli st.
+0144 - Garekakheti st.
+0178 - Garikuli st.
+0103 - Gedevanishvili st; blind alley
+0101 - Geguti st.
+0103 - Gelati st; lane; blind alleys
+0159 - Gelovani (the Marshall) highway
+0186 - Gelovani Archil st.
+0160 - Gelovani Mirza st.
+0112 - General Kvinitadze st.
+0105 - Gergeti st; lane; passage
+0148 - Gezati st.
+0171 - Ggmirta square
+0190 - Giorgadze st.
+0131 - Giorgi Brtskinvalis st.
+0101 - Givishvili st.
+0107 - Gldanis Masivi; 5,6,7,8 m/districts
+0167 - Gldanis Masivi; A,1,2,3,3a,4 m/districts
+0153 - Gldanulas Dasakhleba
+0141 - Glinka st.
+0178 - Gmir Kursantta st.
+0192 - Gogasheni st.blind alley
+0105 - Gogcha st; lane.
+0108 - Gogebashvili st. # 1-19, 2-22,1st lane.
+0179 - Gogebashvili st. #21-51, 24-52; passages; blind alleys
+0102 - Gogiberidze st.
+0105 - Gogirdis st.
+0179 - Goglidze st.
+0112 - Gogol st.
+0119 - Gogolauri st.
+0109 - Gokieli st.
+0101 - Gomareti st; lane.
+0101 - Gombori st.
+0105 - Gomi st; lanes; blind alley
+0103 - Gonashvili st; square
+0101 - Gorda st.
+0105 - Gorgasali st. # 1-25, lanes; square
+0114 - Gorgasali st. # 37-117, 2-54
+0181 - Gorgasali st. (Tskneti)
+0112 - Gori st; lane.
+0102 - Gorky st; lane; blind alleys
+0102 - Gotsiridze st; lane.
+0160 - Gotua st; lane; passage.
+0102 - Graneli st; lane; blind alley
+0103 - Gremis Shesakhvevi; 1,2 Chikhi
+0108 - Griboedov st; lane.
+0105 - Grishashavili st.
+0181 - Grishashavili st. (Tskneti)
+0101 - Grozno st; lane; blind alleys
+0180 - Gruzinski st; lane.
+0141 - Gudamakari st.
+0120 - Gudarekhi st; passage; lane; blind alleys
+0179 - Gudauri lane; blind alley
+0119 - Gudauta st.
+0105 - Gudiashvili st; square
+0144 - Gujareti 1st ,2nd streets
+0114 - Gulia st.
+0107 - Gulisashvili st.
+0114 - Gulua st.
+0168 - Gumatgesi st.
+0132 - Gumati st.
+0103 - Gumbri st; lane; blind alley
+0108 - Gunia st; passage; lane.
+0192 - Guramishvili ave. #1-23, 10-48
+0141 - Guramishvili ave.#25-33, 50-84
+0178 - Guramishvili ave.#35-41
+0181 - Guramishvili st. (Tskneti)
+0101 - Gurgenidze st.
+0108 - Guria st.
+0186 - Gurieli st.
+0103 - Gurjaani st; lane; blind alley
+0103 - Gutani st. #1-31, 2-30, blind alleys
+0144 - Gutani st. #33-57, 32-60, lanes
+0192 - Gvazauri st; lanes; passages; blind alleys
+0154 - Gvetadze st.
+0105 - Iagluji lane
+0144 - Ialbuzi st; lift
+0112 - Iamanidze st.
+0102 - Iaroslacsky st.
+0105 - Iashvili st.
+0168 - Idumala st.
+0105 - Ierusalim square
+0105 - Ierusalim st; lane
+0105 - Iety Gurdjy st. lane; blind alley
+0171 - Ikalto st; mountain; lane; blind alley
+0153 - Ilory st.
+0192 - Iluridze st; passages; lanes; blind alleys
+0160 - Imedashvili G. st.
+0179 - Imedashvili st.
+0180 - Imereti st; lanes; passages
+0101 - Inanishvili R. st
+0108 - Inashvili st.
+0108 - Ingorokva lane
+0108 - Ingorokva lane
+0105 - Ingorokva st. #1-7, 2-6
+0108 - Ingorokva st. #17-25, 8-30
+0104 - Internat st. lane
+0177 - Ionavakeli st.
+0171 - Iosebidze st; 1,3,6/3
+0160 - Iosebidze st; all but 1,3,6/3
+0171 - Ioseliany st.
+0192 - Ipani st; lane, blind alley
+0153 - Ipolitov-Ivanovi st; lane; blind alley
+0103 - Irbakhi st.
+0178 - Iremashvili st.
+0103 - Irgvlivi lane
+0197 - Isaakini st.
+0103 - Isani st.
+0105 - Ispakhani st.
+0151 - Iumashevi st; #1-13, 2-12
+0198 - Iumashevi st; #14 and high, #15 and high
+0105 - Iveria st; blind alley
+0113 - Ivlety st; lane
+0103 - Izashvili st; blind alley
+0144 - Kacharava D. st.
+0153 - Kacharava I st
+0101 - Kachreti st.
+0103 - Kaishauri st.
+0109 - Kakabadze D st.
+0105 - Kakabadze P. st; square
+0117 - Kakabadze V. st; passage
+0190 - Kakheti highway. #1, 3-a, 8, 17-23, 34-50
+0151 - Kakheti highway. #112
+0182 - Kakheti highway. #15, 63-67
+0120 - Kakheti highway. #1a, 1b
+0109 - Kakheti highway. #75, 83, 89, 69
+0109 - Kakheti highway. 7th, 12th,13th km
+0190 - Kakheti highway. all buildings 0190
+0190 - Kakheti II-chikhi
+0182 - Kakhetis Chikhi
+0103 - Kakhetis Khevi
+0144 - Kakhetis Shesakhvevi
+0101 - Kakhiani st; lanes, blind alleys
+0182 - Kakliani st.
+0148 - Kalandadze st
+0114 - Kalandadze Zhani st.
+0102 - Kalandarishvilis st
+0103 - Kalatozis st; lane
+0101 - Kaliujni st.
+0182 - Kaloubani st.
+0160 - Kandelaki st.
+0107 - Kandelaki st. (Tianeti Highway)
+0102 - Kankava st.
+0132 - Kapanadze st.
+0119 - Karaleti st.
+0103 - Kardanakhi st.
+0112 - Kargareteli st.
+0177 - Kartozia st.
+0144 - Kaspi st.
+0179 - Kavsadze st.
+0180 - Kavtiskhevi st.
+0154 - Kedia st.
+0179 - Kekelidze st.
+0101 - Kelaptrishvili st.
+0154 - Kereselidze A. st.
+0108 - Kereselidze I.st.
+0167 - Ketskhoveli st; all even numbers
+0107 - Ketskhoveli st; all odd numbers
+0181 - Ketskhovelis Shesakhvevi (Tskhneti)
+0102 - Kievi st.
+0103 - Kiketi st.
+0132 - Kikvidze st; lane; blind alley
+0159 - King Mirian`s str.
+0101 - Kishinyev st.
+0101 - Kisiskhevi st; lane
+0101 - Kldekari st.
+0112 - Kldiashvili D. st.
+0179 - Kldiashvili K. st.
+0192 - Knolevi st; lanes
+0108 - Kobakhidze st; lane
+0107 - Koberidze st. (Tianeti Highway)
+0190 - Kobtsov st. (Navtlugis Dasakhleba)
+0101 - Kodalo st.
+0105 - Kodas Shesakhvevi
+0171 - Kodori st.
+0105 - Kojori st; passage
+0180 - Kokhreidze st.
+0180 - Kokinaki st; blind alley
+0153 - Kolmeurneobis veli
+0101 - Kondoli st; lane
+0112 - Konstitutsiis st.
+0144 - Koshkovani st.
+0179 - Kostava 1st , 2nd lane; blind alley
+0108 - Kostava st. #3-25, 4-14
+0171 - Kostava st. #64-82, 63-75, 67-85
+0179 - Kostava st. #64-82, 63-75, 67-85
+0181 - Kostava st. (Tshkhneti)
+0105 - Kote Abkhazi st.
+0108 - Kotetishvili st; lane
+0102 - Krilovi st.
+0114 - Krtsanisi st; passages; 2nd lane; blind alley
+0105 - Kuftin st; lane; blind alley
+0102 - Kumisi st; lane; passage
+0163 - Kupradze st.
+0101 - Kursebi st.
+0108 - Kursk st.
+0108 - Kvali st; blind alley
+0103 - Kvaliti st; square; lane; blind alley
+0159 - Kvantaliani st; lanes (Vashlijvari)
+0192 - Kvernauli st.
+0103 - Kveseti st.
+0108 - Lagidze Mitrofane st.
+0108 - Lagidze Revaz st.
+0103 - Lagodekhi st. Lane
+0101 - Lailashi st.
+0101 - Laituri st.
+0101 - Lalioni st; lane.
+0132 - Lamis 1st -3rd st; lane; blind alley
+0101 - Lamiskana st.
+0101 - Lanchkhuti st.
+0163 - Landia st.
+0132 - Larekhi st; lanes
+0179 - Larsi st; lane.
+0153 - Lazo st.
+0101 - Lebarde st.
+0180 - Lechkhumi st; lanes
+0197 - Lekishvili st.
+0101 - Lelashvili st.
+0102 - Lentekhi st; passage.
+0105 - Leonidze st; lane.
+0105 - Lermontov st.
+0113 - Lertsamis st.
+0181 - Leselidze st. (Tskneti)
+0105 - Leselidze st; blind alley
+0108 - Lesya Ukrainka st.
+0160 - Levandovski st.
+0162 - Lezhava st.
+0192 - Liakhvi st; blind alley
+0189 - Libanis st; lane.
+0105 - Liberty
+0101 - Likani st.
+0171 - Likhauri st; lane; blind alley
+0108 - Likhi st; blind alley
+0198 - Lilo Daba; 1st m/d; 2nd m/d; 5th block
+0103 - Lilos Shesakhvevi
+0101 - Lisashvili st; lane; passage; blind alley
+0177 - Lisis Tba; Partizanebis Parki
+0121 - Lit. Konst. Karkhnis Meekvse Dasakhleba
+0137 - Lit. Konst. Karkhnis Satskhovrebeli Sakhlebi
+0151 - Lochini st; lane.
+0102 - Lochinis Dasakhleba
+0165 - Lominadze st.
+0160 - Lomonosov st.
+0103 - Lomouri st; lane; blind alley
+0180 - Lomtatidze st; lanes, blind alleys
+0120 - Lortkipanidze Gr. st. #2
+0145 - Lortkipanidze Gr. st. #25-95, 36-42
+0137 - Lortkipanidze Gr. st.# 3-21, 4-34
+0114 - Lortkipanidze st.
+0101 - Lotkinis Khevi
+0101 - Lotkinis Mta
+0159 - Lubliana st.
+0104 - Lubovski st.
+0144 - Lusinian st.
+0160 - Lvovi str.
+0105 - Machabeli st.
+0103 - Machari st. lane.
+0179 - Machavariani Aleksi st. (Aragvi st.)
+0101 - Machkhaani st.
+0178 - Magalashvili st.
+0101 - Magaros st; lane.
+0182 - Maisuradze T. st.
+0107 - Maisuradze Zakaria st. (Tianeti highway.)
+0108 - Makashvili Kote st; blind alley
+0105 - Makashvili Maro st; ascent.
+0101 - Makhaldian st; es
+0103 - Makhata st; lane.
+0180 - Makhinjauri st.
+0113 - Malkhazis Shesakhvevi
+0132 - Mamardashvili st., #19-71;#28-74
+0102 - Mamardashvili st.,#1-17, 2-24
+0186 - Mamasakhlisov st.
+0103 - Mamkoda st.
+0107 - Mamkoda st.(Tianeti highway)
+0101 - Mamradze st; ravine
+0113 - Mamuka lane.
+0101 - Managadze st; blind alleys
+0113 - Manavi st; blind alleys
+0101 - Manglisi st.
+0101 - Manijashvili st.
+0101 - Manjgaladze st. #1-43, 2-62
+0180 - Manjgaladze st. #45-89, 65-90
+0105 - Manjgaladze st; lanes, blind alley
+0179 - Marabda st
+0145 - Marelisi st.
+0186 - Margiani st; lane; blind alley
+0178 - Mariam Garikuli st.
+0186 - Marijan st.
+0107 - Marjanishvili Kote st.(Tianeti highway)
+0112 - Marjanishvili Kote st; #38-58
+0102 - Marjanishvili Kote st; square,1st lane.; #1-69, 2-34
+0165 - Marneuli st; blind alley
+0103 - Martkopi st; lane; blind alleys
+0114 - Martvili st.
+0101 - Maruashvili st.
+0179 - Marukhis Gmirebis st; blind alleys
+0190 - Matiashvili st; lane
+0103 - Matsesta st; lane.
+0112 - Mayakovsky st.
+0102 - Mazniashvili st.
+0107 - Mebagishvili st.(Tianeti highway.)
+0105 - Mechetis Chikhi
+0198 - Mefrinveleta st.
+0103 - Mefsalmune David mefis st
+0107 - Megobrobis st. (Tianeti highway.)
+0177 - Megreladze st; lane.
+0180 - Mejvriskhevi st.
+0192 - Mekanizatsiis st; lane; blind alley
+0179 - Melikishvili st; blind alley
+0105 - Merchule st.
+0190 - Merve Legionis Dasakhleba
+0148 - Meskheti st; lanes
+0108 - Meskhi Kote st; ascent; lanes, blind alley
+0101 - Meskhi Michael st; lanes
+0105 - Meskhi Sergo st; blind alley
+0108 - Meskhia st; blind alley
+0103 - Meskhishvili st; lane; blind alley
+0103 - Metekhi st; ascent; lanes
+0112 - Metreveli Slava st.
+0101 - Meunargia st; lane; blind alleys
+0120 - Mevele st; lane; blind alley
+0160 - Mgaloblishvili Sopromi st.
+0132 - Michurin st; lane; blind alley
+0107 - Midelauri st. (Tianeti highway.)
+0101 - Mikatadze Shota st; lane.
+0107 - Mikatadze st. (Tianeti highway.)
+0159 - Mikeladze Evgeni st.
+0186 - Mikeladze Shalva st.
+0148 - Mikeladze Vladimer st.
+0143 - Milorava st; lane.
+0108 - Miloravas Chikhi
+0108 - Miminoshvilis Shesakhvevi
+0186 - Mindeli st.
+0171 - Mirotadze st.
+0119 - Mirtskhulava st.
+0105 - Mirza Shafi st.
+0101 - Mirzaani st; blind alley
+0162 - Mishveladze st.
+0101 - Mitingis st.
+0194 - Mitskevich st.
+0183 - Mkhatvris st.
+0132 - Mnatobis st; blind alley
+0163 - Mochadraketa Kheivani
+0192 - Molitis st; blind alleys
+0180 - Molokov st.
+0107 - Moreti st.
+0179 - Mosashvili st. # 2
+0162 - Mosashvili st; all except #2
+0137 - Moscovis ave. #14-52-a, SSK - #19, 33-43; II-block
+0120 - Moscovis ave. #2-10, 1-31
+0145 - Moscovis ave. #45-49, buildings 1-7, IV, V-blocks.
+0167 - Mosulishvili st.
+0103 - Mrevlishvili Makvala st.
+0103 - Mrevlishvili st.
+0152 - Mshvelidze st.
+0108 - Mtatsminda st; lane.
+0103 - Mtavarangelozis st.
+0148 - Mtisdziri st; lanes
+0105 - Mtkvari st.
+0179 - Mtskheta st; passage; 1st lane.
+0103 - Mujirishvili st.
+0109 - Mukhadze George st.
+0162 - Mukhadze Grigol st.
+0109 - Mukhadze st. (Orkhevi)
+0131 - Mukhatgverdi
+0105 - Mukhatis Shesakhvevi
+0172 - Mukhianis Dasakhleba; 1,2,3,4a ,4b m/d.
+0141 - Mukhrani st; lanes
+0103 - Mukuzanis Shesakhvevi; Gasasvleli; Chikhi
+0101 - Mushata st.
+0112 - Mushtaidis Parki
+0152 - Muskhelishvili Nikoloz st.
+0105 - Muskhelishvili Rostom lane; blind alley
+0186 - Nadareishvili T.  str.
+0114 - Nadikvaris Dasakhleba; 1st st; 2nd st; 3rd st; lane; blind alleys 0114
+0102 - Nadiradze st.
+0192 - Nagomari st.
+0121 - Nakaduli st; passages
+0101 - Nakalakevi st.
+0103 - Nakerala st.
+0148 - Naneishvili Victor st.
+0167 - Naneishvili Vl. st.
+0179 - Napareuli st.
+0113 - Nargizi st; lane; blind alley
+0103 - Nasakirali st.
+0171 - Nasidze st.
+0180 - Natadze st.
+0171 - Natakhtari st.
+0102 - Natishvili st.
+0113 - Navtlugi st; 1st blind alley
+0190 - Navtlugi st; 2nd blind alley
+0145 - Navtlugi st; 4th blind alley
+0168 - Navtlugi-Kakhetis Dasakhleba
+0190 - Navtlugis Dasakhleba; 12th st; 13th st; lanes
+0190 - Navtlugis Dasakhleba; 5th st.
+0190 - Navtlugis Meore Dasakhleba; 1st ,2nd ,3rd, 4th ,5th ,6th st.
+0103 - Niabi st; lanes
+0108 - Niagvari st.
+0101 - Niko Mari st. #1-21, 2-16
+0180 - Niko Mari st. #23 and upper, #18 and upper
+0180 - Niko Maris Shesaxvevebi; Chikhebi
+0179 - Nikoladze I. st; blind alleys
+0108 - Nikoladze N. st.
+0178 - Nikortsminda st.
+0113 - Ninidze st.
+0102 - Ninoshvili st. #1-15, 2-20
+0112 - Ninoshvili st. #17-59, 24-64
+0112 - Ninoshvili st. #61-71, 62-78
+0103 - Ninua Vakhtang st.
+0103 - Nioradze st; lane; blind alley
+0105 - Nishnianidze st;
+0105 - Nizami Ganjeli st; lane; blind alley
+0172 - Noneshvili I. (Mukhianis Dasakhleba) st.
+0132 - Norios Agmarti; Shesaxvevebi; Chikhebi
+0144 - Nosiri st.
+0101 - Noste st; lane
+0101 - Novorossiisk st.
+0103 - Nukriani st
+0177 - Nutsubidze st. #1-77, 2-60
+0186 - Nutsubidze st. #64 and upper, #79 and upper
+0183 - Nutsubidzis Plato; I,II,III,IV-m/d.
+0103 - Observatoriis st
+0160 - Odessa st.
+0108 - Odzelashvili Arsena st; passage; blind alley
+0103 - Odzisi st.
+0105 - Okrokana st; ascent; settl.
+0105 - Okromchedlebis st; lane; passage.
+0167 - Omis Gmirebis st.
+0190 - Onashvili st.
+0148 - Oniani st.
+0160 - Oniashvili st.
+0105 - Onis Shesakhvevi
+0114 - Opretis Shesakhvevi
+0198 - Orakhelashvili st. (Lilo)
+0190 - Orbeli I. and D. st; lane.
+0105 - Orbeliani Gr. square
+0105 - Orbeliani V. st; lane; blind alleys
+0101 - Orbeti st.
+0103 - Orkhevi st; lanes, passages
+0109 - Orkhevis Dasakhleba
+0105 - Orpiri st; lane; blind alley
+0114 - Ortachala st; lanes, blind alleys
+0160 - Oseti st.
+0102 - Osiauri st; passage; lane; blind alleys
+0171 - Otsdaekvsi Maisis square
+0121 - Otskheli st. #24, 25, 25a
+0145 - Otskheli st; all except #24, 25, 25a
+0159 - Paichadze st.
+0132 - Paliastomi st; blind alley
+0171 - Pankisi st.
+0102 - Paster st.
+0144 - Patardzeuli st.
+0152 - Pataridze st.
+0160 - Pekin ave. # 16-24, 24-a, 17-25
+0194 - Pekin ave. # 16-24, 24-a, 17-25
+0171 - Pekin ave. # 2-15; lane; blind alleys
+0160 - Pekin ave. 27-45, 28-46
+0159 - Petre Iberi str.
+0179 - Petriashvili st; lane; blind alley
+0131 - Petritsi st.
+0109 - Petritsi st. (Orkhevi)
+0102 - Platon st.
+0105 - Puris square, blind alley
+0105 - Pushkin st; blind alley
+0101 - Racha st.
+0179 - Radiani Shalva st.
+0189 - Raioni st.
+0179 - Ramishvili Nino st.
+0192 - Ratevani st; lanes, blind alleys
+0148 - Ratili st.
+0103 - Razikashvili Tedo st; lane; blind alley
+0179 - Razmadze Andria st.
+0107 - Razmadze st.(Tianeti highway)
+0179 - Rcheulishvili Guram st; lane; blind alleys
+0101 - Rekhis 1st ,2nd , 3rd streets
+0108 - Respublikis square
+0117 - Revolutsiis st; lane; blind alley
+0180 - Riongesis st.
+0108 - Ritsa st; passages
+0101 - Rkinigzis st.
+0105 - Rkinis Rigis Shesakhvevi
+0159 - Robakidze ave. 1st ,2nd ,3rd ,6th blocks
+0179 - Roden st.
+0113 - Rostomashvili st.
+0101 - Rostov st; passage.
+0113 - Rtveladze George st.
+0103 - Ruispiri st; blind alley (Elias Mta)
+0108 - Rustaveli ave., #5-37, 10-54
+0118 - Rustaveli ave., #8
+0105 - Rustaveli ave., passage; lane; #1-3, 2-4
+0198 - Rustaveli st.(Lilo)
+0181 - Rustaveli st; lanes (Tskneti)
+0165 - Rustavi highway; passages, blind alleys
+0113 - Rusudan st; lane.
+0108 - Rva Martis st; lane
+0160 - Saakadze Georgi square
+0101 - Saakadze Georgi st. #1-21, 2-20
+0180 - Saakadze Georgi st. #22 and high, 23 and upward lanes
+0109 - Saakadze Georgi st. (Orkhevi)
+0181 - Saakadze Georgi st. (Tskneti)
+0132 - Saakadze Pataras st.
+0144 - Sabaduri st.
+0114 - Sabanisdze st.
+0148 - Sabargo settlement
+0107 - Sabashvili st.
+0101 - Sabcho II blind alley
+0103 - Sabui lane
+0178 - Sadmeli st.
+0171 - Sagarejo st.
+0112 - Saguramo st.
+0105 - Saiatnova st; lanes
+0105 - Said-Muslikhidini st; lane
+0103 - Saingilo st.
+0194 - Sairme st; lanes
+0105 - Salami st.
+0132 - Salia Nino and Kalistrate st.
+0101 - Salkhino st.
+0167 - Samamulo Omis Gmirta st.
+0105 - Samgebro st.
+0182 - Samgori 2-th settlement
+0190 - Samgori st; buildings
+0120 - Samgori st; station; blind alley
+0136 - Samrecvelo settlement
+0101 - Samshvildo st.
+0119 - Samtredia st.
+0101 - Samurzakhano st.
+0114 - Sanapiro str.
+0103 - Sartichala str.
+0103 - Satemo st.
+0192 - Savagono Depo
+0105 - Savaneti st.
+0167 - Shemodgoma str.
+0119 - Stanislavsky str.
+0100 - Station Square
+0165 - Station st; passage
+0105 - Tabakhmela st.
+0105 - Tabidze Galaqtion st.
+0181 - Tabidze Galaqtion st. (Tskhneti)
+0179 - Tabidze Ticiani st. #1-37, 2-88
+0162 - Tabidze Ticiani st. #39-59, 90-124
+0160 - Tabukashvili L. st.
+0108 - Tabukashvili R. lane; blind alleys
+0105 - Tabukashvili R. st. #1-7, 2-14.
+0108 - Tabukashvili R. st. #9-51, 18-50
+0179 - Takaishvili E st.
+0163 - Takaishvili S st.
+0179 - Taktakishvili st.
+0112 - Tamar Mepis Ave.
+0181 - Tamar Mepis Ave. (Tskneti)
+0132 - Tamarasheni st; passage; lanes, blind alleys
+0162 - Tamarashvili st. #1-11, 2a
+0177 - Tamarashvili st. #13-21, 6, 10
+0179 - Tarkhnishvili st; lane; blind alley
+0178 - Tavadze Ferdinand st.
+0177 - Tavadze st
+0105 - Tbilisi st; lane; (Okrokana)
+0101 - Tbilisis Zgva; Panvionatebi
+0101 - Tbilisis Zgva; Sakhnakopsanerge
+0103 - Tedzami st.
+0131 - Teimuraz I st.
+0101 - Teklati st.
+0103 - Telavi st; lane; blind alley
+0105 - Teleti st; lanes, blind alley
+0179 - Tergi st.
+0101 - Tetnuldi st; blind alleys
+0109 - Tetri Khevis Dasakhleba
+0113 - Tetri Tskaro st; lane.
+0112 - Tevdore Mgvdlis st. #1-21, 2-26, blind alley
+0154 - Tevdore Mgvdlis st. #28-48, 48a, 25-51
+0181 - Tevdore Mgvdlis st. (Tskneti)
+0112 - Tevdore Mgvdlis st., I blind alley
+0154 - Tevdore Mgvdlis st., II blind alley
+0168 - Three hundred sixty-th km.
+0178 - Three Hundred Thirteenth st.
+0107 - Tianeti highway
+0141 - Tianeti st; blind alley, passage.
+0108 - Tkhinvali st; lane; blind alleys
+0114 - Tmogveli st.
+0192 - Tmogvi st; passages, blind alleys
+0101 - Todria st.
+0102 - Toidze st; lane.
+0105 - Tonetis square, lane.
+0186 - Topuria st.
+0159 - Topuridze st.
+0179 - Toradze st.
+0163 - Trialeti st., #54
+0182 - Trialeti st., all except #54
+0105 - Tumanian st; lane; blind alleys
+0182 - Tvalchrelidze st.
+0105 - Vachnadze st.
+0103 - Vakhtang VI st.
+0154 - Vani st.
+0179 - Varaziskhevi st.
+0117 - Vardevani st; blind alley
+0103 - Vardis square
+0141 - Vardisubani st.
+0179 - Vardzia st.
+0163 - Varketili-3 1,2,3,3-a,4 m/d.
+0182 - Varketilis Masivi; 1st block, 3rd ,4th ,6th ,7th blocks
+0182 - Varketilis Masivi; 4m/d; 1-15 buildings
+0152 - Varketilis Masivi; 4m/d; 3rd block
+0152 - Varketilis Masivi; 5m/d; 17-21,18-22
+0182 - Varketilis Masivi; 5m/d; 2nd ,3rd ,4th buildings
+0182 - Varketilis Masivi; 8th ,9th ,10th blocks
+0182 - Varketilis Masivi; Zemo Plato
+0163 - Varketilis Masivi; Zemo Plato; 2 m/d
+0107 - Vartagava st.
+0102 - Vartsikhe st.
+0167 - Vasadze st.
+0159 - Vashlijvaris Dasakhleba
+0108 - Vashlovani st.
+0160 - Vazha-Pshavela ave; #1-31,2-20
+0177 - Vazha-Pshavela ave; #33-51,22-66
+0186 - Vazha-Pshavela ave; #55-99,72-106
+0177 - Vazha-Pshavela ave; 1st block
+0186 - Vazha-Pshavela ave; 2nd ,3rd ,4th ,5th ,6th ,7th blocks
+0186 - Vazha-Pshavela ave; 3rd ,4th ,6th lanes
+0177 - Vazha-Pshavela ave; II lane
+0105 - Vazha-Pshavela st. (Okrokana)
+0181 - Vazha-Pshavela st. (Tskneti)
+0177 - Vazha-Pshavelas Chikhi
+0192 - Vaziani st.
+0152 - Vazisubnis Dasakhleba; m/districts
+0102 - Vedzatkhevi st; lane
+0108 - Vejini st; passages
+0167 - Vekua I. st.
+0105 - Vekua V. st.
+0168 - Veli Sadguri
+0178 - Velistsikhe st.
+0179 - Vera passage; lane
+0102 - Verharn st; ses; blind alleys
+0105 - Vertskhlis st; lanes; blind alleys
+0101 - Veshapuri st.
+0114 - Vezirov st.
+0108 - Virsalaze st.
+0103 - Vitsro Cikhi
+0101 - Zakaraia st. lanes
+0177 - Zakariadze st.
+0144 - Zakharov st.
+0137 - Zaktransstrois Dasakhleba
+0108 - Zaldastanishvili Sol. st., lanes, passage
+0108 - Zandukeli st. #1-25, 2-40
+0179 - Zandukeli st. #27-29
+0179 - Zandukeli st; 2 blind alley
+0153 - Zarzma st.
+0190 - Zavriev st.
+0102 - Zaziashvili lanes; st.
+0101 - Zedamze st. lanes, passage.
+0101 - Zedaubani st; lanes
+0180 - Zedazeni st.
+0108 - Zedgenidze st.
+0101 - Zekari st.
+0109 - Zemo Alekseevkis Dasakhleba
+0168 - Zemo Metalurgiis Dasakhleba
+0179 - Zemo Vake st; lanes; passage; blind alley
+0160 - Zemo Vedzisi st; blind alleys
+0177 - Zemo Vedzisis Dasakhleba
+0180 - Zestaponi st; lane; blind alley
+0191 - Zgvis Ubani (Temka) 2nd m/d, I-II-III blocks
+0197 - Zgvis Ubani (Temka) 3rd m/d,I-III-IV-V blocks
+0197 - Zgvis Ubani (Temka) 4th m/d,I-II-III blocks 0197
+0178 - Zgvis Ubani (Temka), 9, 10 , 10a, 10b blocks
+0183 - Zhgenti Beso st.
+0101 - Zhgenti Dimitrsi st.
+0192 - Zhinvali st.
+0103 - Zhoneti st
+0165 - Zhordania Andro st.
+0108 - Zhordania Tedo st; lane
+0145 - Zhores st. #1-11, 2-6
+0182 - Zhores st. #10 and upper, #13 and upper
+0182 - Zhoresis Shesakhvevi
+0160 - Zhvania Zurab square
+0192 - Zhvelauri st.
+0101 - Ziari st.
+0108 - Zichi st.
+0192 - Zigzagi 1st st; 2nd st.
+0144 - Zindisi st.
+0160 - Zovreti st.
+0108 - Zubalashvili brothers str.
+0154 - Zugdidi st.
+0144 - Zurabishvili st.
+0180 - Zvareti st.
